@@ -1,7 +1,5 @@
 # baseN [![Build Status](https://travis-ci.org/sumory/baseN.png?branch=master)](https://travis-ci.org/sumory/baseN)  
 
-[![NPM](https://nodei.co/npm/baseN.png)](https://npmjs.org/package/baseN)  
-
 **baseN**: Encode number(max is Math.pow(2,53)) to base(2~62) hash string and decode it back. Customization is also supported.
 
 
