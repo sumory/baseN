@@ -1,5 +1,5 @@
 {
-    "name": "baseN",
+    "name": "basen",
     "version": "0.0.1",
     "description": "convert a number ID to base(**N**) hash string.",
     "repository": "https://github.com/sumory/baseN.git",

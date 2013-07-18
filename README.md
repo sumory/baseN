@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-$ npm install baseN
+$ npm install basen
 ```
 
 ## Usage
