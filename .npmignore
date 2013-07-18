@@ -1,0 +1,7 @@
+.git*
+examples/
+node_modules
+.idea
+.travis.yml
+test
+Makefile

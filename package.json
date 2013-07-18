@@ -1,0 +1,26 @@
+{
+    "name": "baseN",
+    "version": "0.0.1",
+    "description": "convert a number ID to base(**N**) hash string.",
+    "repository": "https://github.com/sumory/baseN.git",
+    "author": {
+        "name": "sumory.wu",
+        "email": "sumory.wu@gmail.com"
+    },
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "should": "*",
+        "mocha": "*"
+    },
+    "scripts": {
+        "test": "make test-all"
+    },
+    "keywords": [
+        "base", "ID Convertor", "hash string", "ID mask"
+    ],
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "license": "MIT"
+}
