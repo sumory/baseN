@@ -18,6 +18,7 @@ see [baseN.test.js](https://github.com/sumory/baseN/blob/master/test/baseN.test.
 Three ways to start with `baseN`
 
 ```
+var BaseN = require('basen');
 var baseN = new BaseN();//use default base array: letter(52) + numeric(10)
 var baseN = new BaseN(15);//set radix 15, and use first 1~15 chars as base array
 var baseN = new BaseN({
