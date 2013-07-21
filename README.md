@@ -1,4 +1,4 @@
-# baseN [![Build Status](https://travis-ci.org/sumory/baseN.png?branch=master)](https://travis-ci.org/sumory/baseN)  
+# baseN [![Build Status](https://travis-ci.org/sumory/baseN.png)](https://travis-ci.org/sumory/baseN)  
 
 **baseN**: Encode number(max is Math.pow(2,53)) to base(2~62) hash string and decode it back. Customization is also supported.
 
